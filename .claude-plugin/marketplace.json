@@ -1,0 +1,24 @@
+{
+  "name": "ikumihost-marketplace",
+  "owner": {
+    "name": "Jesus Rodriguez"
+  },
+  "metadata": {
+    "description": "IkumiHost plugin marketplace — publish AI-generated static websites to IkumiHost"
+  },
+  "plugins": [
+    {
+      "name": "ikumihost-plugin",
+      "source": {
+        "source": "github",
+        "repo": "ikumihost/ikumihost-plugin",
+        "ref": "v2.0.3"
+      },
+      "description": "Sync and publish a local website to IkumiHost — plan the sync, upload changed files, then publish once at the end.",
+      "version": "2.0.3",
+      "author": {
+        "name": "Jesus Rodriguez"
+      }
+    }
+  ]
+}
