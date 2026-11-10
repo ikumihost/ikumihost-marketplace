@@ -12,10 +12,10 @@
       "source": {
         "source": "github",
         "repo": "ikumihost/ikumihost-plugin",
-        "ref": "v2.0.27"
+        "ref": "v2.0.28"
       },
       "description": "Sync and publish a local website to IkumiHost — one sync command uploads the changed files and publishes the site.",
-      "version": "2.0.27",
+      "version": "2.0.28",
       "author": {
         "name": "Jesus Rodriguez"
       }
